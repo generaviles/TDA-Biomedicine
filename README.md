@@ -22,17 +22,25 @@ https://link.springer.com/article/10.1007/s10208-017-9370-z
 - Statistical Analysis and Parameter Selection for Mapper - Mathieu Carrière, Bertrand Michel, Steve Oudot (2018):
 http://jmlr.org/papers/v19/17-291.html
 
-3. TDA Mapper's Papers:
+3. TDA Mapper in Applications:
 - Topology based data analysis identifies a subgroup of breast cancers with a unique mutational profile and excellent survival - Nicolau M, Levine AJ, Carlsson G. (2011):
 https://www.ncbi.nlm.nih.gov/pubmed/21482760
 - Topology of viral evolution - Joseph Minhow Chan, Gunnar Carlsson, and Raul Rabadan (2013):
 https://www.pnas.org/content/110/46/18566
 - Topological data analysis for discovery in preclinical spinal cord injury and traumatic brain injury - Jessica L. Nielson, Jesse Paquette, Aiwen W. Liu, Cristian F. Guandique, C. Amy Tovar, Tomoo Inoue, Karen-Amanda Irvine, John C. Gensel, Jennifer Kloke, Tanya C. Petrossian, Pek Y. Lum, Gunnar E. Carlsson, Geoffrey T. Manley, Wise Young, Michael S. Beattie, Jacqueline C. Bresnahan & Adam R. Ferguson (2015):
 https://www.nature.com/articles/ncomms9581
+
+4. TDA Mapper in Brain Network:
 - Towards a new approach to reveal dynamical organization of the brain using topological data analysis - Manish Saggar, Olaf Sporns, Javier Gonzalez-Castillo, Peter A. Bandettini, Gunnar Carlsson, Gary Glover & Allan L. Reiss (2018):
 https://www.nature.com/articles/s41467-018-03664-4
+- Topological Data Analysis of Functional MRI Connectivity in Time and Space Domains - Keri L. Anderson, Jeffrey S. Anderson, Sourabh Palande, Bei Wang (2018):
+https://link.springer.com/chapter/10.1007/978-3-030-00755-3_8
+- The importance of the whole: Topological data analysis for the network neuroscientist - Ann E. Sizemore , Jennifer E. Phillips-Cremins, Robert Ghrist, Danielle S. Bassett (2018):
+https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00073
+- Topological Data Analysis of Task-Based fMRI Data from Experiments on Schizophrenia - Bernadette J. Stolz, Tegan Emerson, Satu Nahkuri, Mason A. Porter, Heather A. Harrington (2018):
+https://arxiv.org/abs/1809.08504
 
-4. TDA-Bio's Papers:
+5. TDA Mapper in Biomedicine:
 - Gene expression profiling predicts clinical outcome of breast cancer - van 't Veer LJ, Dai H, van de Vijver MJ, He YD, Hart AA, Mao M, Peterse HL, van der Kooy K, Marton MJ, Witteveen AT, Schreiber GJ, Kerkhoven RM, Roberts C, Linsley PS, Bernards R, Friend SH. (2002):
 https://www.ncbi.nlm.nih.gov/pubmed/11823860
 - The shape of biomedical data - GunnarCarlsson (2017):
@@ -51,3 +59,5 @@ http://homepage.divms.uiowa.edu/~idarcy/COURSES/TDA/SPRING18/3900.html
 6. Softwares:
 - Scikit-TDA: Topological Data Analysis for Python:
 https://pypi.org/project/scikit-tda/
+- Dynamical Neuroimaging Spatiotemporal Representations:
+https://braindynamicslab.github.io/dyneusr/?fbclid=IwAR046Hx9pJX_cC6vaRoFJDmi88NODqTdom9AVbdpII2pCxCJlaVTo7lsH6U
