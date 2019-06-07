@@ -12,7 +12,6 @@ https://www.semanticscholar.org/paper/Topological-Methods-for-the-Analysis-of-Hi
 
 - Structure and Stability of the One-Dimensional Mapper - Mathieu Carrière, Steve Oudot (2018):
 https://link.springer.com/article/10.1007/s10208-017-9370-z
-
 - Statistical Analysis and Parameter Selection for Mapper - Mathieu Carrière, Bertrand Michel, Steve Oudot (2018):
 http://jmlr.org/papers/v19/17-291.html
 
